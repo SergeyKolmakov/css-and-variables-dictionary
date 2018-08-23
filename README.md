@@ -1,9 +1,10 @@
 # CSS & Variables Dictionary
 
 > There are only two hard things in Computer Science: cache invalidation and naming things.
+>
 > -- <cite>Phil Karlton</cite>
 
-## h2 CSS (BEM)
+## CSS (BEM)
 
 ### Block
 
